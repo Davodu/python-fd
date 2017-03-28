@@ -1,0 +1,4 @@
+# node-name available-space
+node1 10000
+node2 20000
+node3 30000

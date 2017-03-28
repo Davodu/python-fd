@@ -1,0 +1,8 @@
+tweety.out node1
+elmerfudd.txt node2
+toolarge.txt NULL
+jerry.dat node3
+toosmall.txt node4
+tom.dat node4
+file7.txt node1
+file8.txt NULL

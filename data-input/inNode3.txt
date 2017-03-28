@@ -1,0 +1,4 @@
+# node-name available-space
+node1 50000
+node2 40000
+node3 tra

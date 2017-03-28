@@ -1,0 +1,9 @@
+# filename size
+tom.dat 15000
+jerry.dat 20000
+tweety.out 5000
+elmerfudd.txt 2000
+toolarge.txt 80000
+toosmall.txt 10
+file7.txt 8000
+file8.txt 40000

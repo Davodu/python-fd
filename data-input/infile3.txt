@@ -1,0 +1,6 @@
+# filename size
+tom.dat badval
+jerry.dat 1000
+tweety.out 5000
+elmerfudd.txt 2000
+
