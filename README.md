@@ -1,2 +1,2 @@
 # python-fd
-Algorithm for efficient file distributuion across storage nodes
+Algorithm for efficient file distribution across available storage nodes
